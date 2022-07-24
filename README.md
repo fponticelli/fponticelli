@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco%20Ponticelli-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francoponticelli/)
 
-## 🔧 Technologies & Tools
-
 ## &#x1f4c8; GitHub Stats 
 
 <!-- GitHub Stats -->
