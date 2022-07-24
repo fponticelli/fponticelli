@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**fponticelli/fponticelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-francoponticelli-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francoponticelli/)
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## &#x1f4c8; GitHub Stats 
+
+<!-- GitHub Stats -->
+<a href="https://github.com/fponticelli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fponticelli&theme=calm&show_icons=true" alt="Franco Ponticelli's GitHub Stats" />
+</a>
+
+<!-- Most used languages -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fponticelli&theme=calm)](https://github.com/fponticelli/github-readme-stats)
+
+<!-- Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fponticelli&theme=calm)](https://git.io/streak-stats)
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=fponticelli&theme=nord" alt="fponticelli" />
+
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fponticelli.visitor-badge)
