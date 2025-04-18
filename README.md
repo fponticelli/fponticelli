@@ -19,5 +19,3 @@
 <!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=fponticelli&theme=nord" alt="fponticelli" />
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fponticelli.visitor-badge)
